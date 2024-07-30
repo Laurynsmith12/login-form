@@ -54,7 +54,7 @@ signup.addEventListener('click', (event)=>{
         })
         .catch((error)=>{
             console.error("errror writing document", error);
-        })
+        });
     })
     .catch((error)=>{
         const errorCode=error.code;
