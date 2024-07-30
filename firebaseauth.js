@@ -8,7 +8,7 @@ import {getFirestore, setDoc, doc} from "https://www.gstatic.com/firebasejs/10.1
 // Your web app's Firebase configuration
 const firebaseConfig = {
   apiKey: "AIzaSyBEZQR24YwhCbK_Mg4GpEqkoY7CFzd01c8",
-  authDomain: "login-form-c27f0.firebaseapp.com",
+  authDomain: "loginformmode.netlify.app/",
   projectId: "login-form-c27f0",
   storageBucket: "login-form-c27f0.appspot.com",
   messagingSenderId: "513177356255",
